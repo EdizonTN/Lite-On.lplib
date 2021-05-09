@@ -1,0 +1,10 @@
+(librepcb_library f8c82af3-9be5-4201-a14d-7901505f1e24
+ (name "Lite-On")
+ (description "LITE-ON Technology Corporation")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2021-05-08T22:02:19Z)
+ (deprecated false)
+ (url "")
+)
